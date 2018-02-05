@@ -1,8 +1,8 @@
 {
-  "name": "intro.js",
+  "name": "enhanced-intro.js",
   "description": "Better introductions for websites and features with a step-by-step guide for your projects",
   "version": "2.9.0-alpha.1",
-  "author": "Afshin Mehrabani <afshin.meh@gmail.com>",
+  "author": "Dharmendra Poonia <dspoonia7@gmail.com>",
   "homepage": "http://introjs.com",
   "repository": {
     "type": "git",
